@@ -114,7 +114,7 @@ HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
 
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
-    "UPSTREAM_REPO_URL", "https://github.com/GengKapak/DCLXVI.git"
+    "UPSTREAM_REPO_URL", "https://github.com/jefa2231/botbaru.git"
 )
 # UPSTREAM_REPO_URL branch, the default is master
 UPSTREAM_REPO_BRANCH = os.environ.get("UPSTREAM_REPO_BRANCH", "master")
@@ -281,7 +281,7 @@ async def check_botlog_chatid():
 with bot:
     try:
         bot(JoinChannelRequest("@akmjfeels"))
-        bot(JoinChannelRequest("@GengKapak"))
+        bot(JoinChannelRequest("@jejakcheat14"))
 
         tgbot = TelegramClient(
             "TG_BOT_TOKEN",
@@ -307,12 +307,12 @@ with bot:
             builder = event.builder
             result = None
             query = event.text
-            if event.query.user_id == uid and query.startswith("@GengKapak"):
+            if event.query.user_id == uid and query.startswith("@jejakcheat14"):
                 buttons = paginate_help(0, dugmeler, "helpme")
                 result = builder.article(
                     "Please Use Only With .help Command",
                     text="{}\nTotal loaded modules: {}".format(
-                        "DCLXVI UserBot by @GengKapak\n\nGitHub Repository [Here](https://github.com/GengKapak/DCLXVI)\n",
+                        "DCLXVI UserBot by @jejakcheat14\n\nGitHub Repository [Here](https://github.com/jefa2231/botbaruok)\n",
                         len(dugmeler),
                     ),
                     buttons=buttons,
@@ -333,7 +333,7 @@ You can convert your account to bot and use them. Remember, you can't manage som
                         [
                             custom.Button.url(
                                 "Follow Channel",
-                                "https://t.me/GengKapak"),
+                                "https://t.me/jejakcheat14"),
                             custom.Button.url(
                                 "Build by",
                                 "https://t.me/NGGDCLXVI"),
@@ -341,7 +341,7 @@ You can convert your account to bot and use them. Remember, you can't manage som
                         [
                             custom.Button.url(
                                 "GitHub",
-                                "https://github.com/GengKapak/DCLXVI")],
+                                "https://github.com/jefa2231/botbaru")],
                     ],
                     link_preview=False,
                 )

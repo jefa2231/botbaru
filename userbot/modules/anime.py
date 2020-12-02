@@ -168,8 +168,8 @@ def get_poster(query):
 
 def post_to_telegraph(anime_title, html_format_content):
     post_client = TelegraphPoster(use_api=True)
-    auth_name = "@GengKapak"
-    bish = "https://t.me/GengKapak"
+    auth_name = "@jejakcheat"
+    bish = "https://t.me/jejakcheat14"
     post_client.create_api_token(auth_name)
     post_page = post_client.post(
         title=anime_title,

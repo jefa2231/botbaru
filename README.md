@@ -1,14 +1,14 @@
 # DCLXVI UserBot Project
 
 <p align="center">
-    <a href="https://github.com/GengKapak/DCLXVI/actions?query=PEP8"> <img src="https://github.com/GengKapak/DCLXVI/workflows/PEP8/badge.svg?branch=master" alt="PEP8" /></a>
+    <a href="https://github.com/jefa2231/botbaru/actions?query=PEP8"> <img src="https://github.com/jefa2231/botbaru/workflows/PEP8/badge.svg?branch=master" alt="PEP8" /></a>
     <a href="https://github.styleci.io/repos/263736411?branch=master"><img src="https://github.styleci.io/repos/263736411/shield?branch=master" alt="StyleCI"></a><br>
-    <a href="https://app.codacy.com/gh/GengKapak/DCLXVI/dashboard"> <img src="https://img.shields.io/codacy/grade/a8f0747a964e4712818a28d2a7f4edd3?color=blue&logo=codacy&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/GengKapak/DCLXVI"> <img src="https://img.shields.io/github/repo-size/GengKapak/DCLXVI?logo=github&style=for-the-badge" /></a>
-    <a href="https://github.com/GengKapak/DCLXVI/graphs/contributors"> <img src="https://img.shields.io/github/contributors-anon/GengKapak/DCLXVI?color=blue&label=all%20contributors&logo=github&style=for-the-badge" /></a>
-    <a href="https://github.com/GengKapak/DCLXVI/commits/master"> <img src="https://img.shields.io/github/last-commit/GengKapak/DCLXVI?color=blue&logo=github&style=for-the-badge" /></a>
-    <a href="https://github.com/GengKapak/DCLXVI/issues"> <img src="https://img.shields.io/github/issues/GengKapak/DCLXVI?color=blue&logo=github&style=for-the-badge" /></a>
-    <a href="https://github.com/GengKapak/DCLXVI/network/members"> <img src="https://img.shields.io/github/forks/GengKapak/DCLXVI?logo=github&style=for-the-badge" /></a>
+    <a href="https://app.codacy.com/gh/jefa2231/botbaru/dashboard"> <img src="https://img.shields.io/codacy/grade/a8f0747a964e4712818a28d2a7f4edd3?color=blue&logo=codacy&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/jefa2231/botbaru"> <img src="https://img.shields.io/github/repo-size/jefa2231/botbaru?logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/jefa2231/botbaru/graphs/contributors"> <img src="https://img.shields.io/github/contributors-anon/GengKapak/DCLXVI?color=blue&label=all%20contributors&logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/jefa2231/botbaru/commits/master"> <img src="https://img.shields.io/github/last-commit/jefa2231/botbaru?color=blue&logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/jefa2231/botbaru/issues"> <img src="https://img.shields.io/github/issues/jefa2231/botbaru?color=blue&logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/GengKapak/DCLXVI/network/members"> <img src="https://img.shields.io/github/forks/jefa2231/botbaru?logo=github&style=for-the-badge" /></a>
     <a href="https://hub.docker.com/r/gengkapak/archlinux"> <img src="https://img.shields.io/docker/image-size/gengkapak/archlinux/latest?label=docker%20image%20size&logo=docker&style=for-the-badge" /></a>
     <a href="https://hub.docker.com/r/gengkapak/archlinux/tags"> <img src="https://img.shields.io/docker/v/gengkapak/archlinux/latest?label=docker%20version&logo=docker&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?label=telethon&logo=pypi&logoColor=white&style=for-the-badge" /></a>
@@ -55,4 +55,4 @@ Deploy to Heroku:
 
 ## Credits
 
-Huge thanks to [everyone](https://github.com/GengKapak/DCLXVI/graphs/contributors) who have helped make this userbot awesome!!</p>
+Huge thanks to [everyone](https://github.com/jefa2231/botbaru/graphs/contributors) who have helped make this userbot awesome!!</p>

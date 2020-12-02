@@ -43,5 +43,5 @@ jobs:
           commit_options: '--no-verify --signoff'
           repository: .
           commit_user_name: Angga
-          commit_user_email: angga@linuxmail.org
+          commit_user_email: jefandchris@gmail.com
           commit_author: Angga <angga@linuxmail.org>
